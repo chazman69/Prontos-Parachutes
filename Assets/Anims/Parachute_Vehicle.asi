@@ -1,0 +1,307 @@
+AnimSetInstanceSource "{6602E668AA3C7FF5}" {
+ Template "{8CEE6F66E2632752}Assets/Anims/Parachute.ast"
+ Lines {
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.AccelerationSpine" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.Death" {
+   Resource "{0AACF46ABF2F7837}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_idle.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.GetIn" {
+   Resource "{90F1DA44B2D5E61D}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_codriver_getIn.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.GetOut" {
+   Resource "{E54DB1D7466CD3FC}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_codriver_getOut.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.HeadLook" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.Idle" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.UnconsciousDeath" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.UnconsciousIdle" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.UnconsciousIn" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.UnconsciousOut" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.AccelerationSpine" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.Death" {
+   Resource "{0AACF46ABF2F7837}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_idle.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.GetIn" {
+   Resource "{D3A1683AC8659AD7}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_driver_getIn.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.GetOut" {
+   Resource "{A8EBEF84E6426366}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_driver_getOut.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.HeadLook" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.Idle" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.UnconsciousDeath" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.UnconsciousIdle" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.UnconsciousIn" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.UnconsciousOut" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Gunner.AccelerationSpine" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Gunner.Death" {
+   Resource "{0AACF46ABF2F7837}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_idle.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Gunner.HeadLook" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Gunner.Idle" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Gunner.UnconsciousDeath" {
+   Resource "{275A9E43B4C662A0}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ_idle.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Gunner.UnconsciousIdle" {
+   Resource "{275A9E43B4C662A0}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ_idle.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Gunner.UnconsciousIn" {
+   Resource "{275A9E43B4C662A0}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ_idle.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Gunner.UnconsciousOut" {
+   Resource "{275A9E43B4C662A0}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ_idle.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.AccelerationSpine" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.Death" {
+   Resource "{0AACF46ABF2F7837}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_idle.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.GetIn" {
+   Resource "{641E75C71779C66F}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_passengerL_getIn.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.GetOut" {
+   Resource "{C5693AE2C27296F0}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_passengerL_getOut.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.HeadLook" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.Idle" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.UnconsciousDeath" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.UnconsciousIdle" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.UnconsciousIn" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.UnconsciousOut" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.UniqueSeat.AccelerationSpine" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.UniqueSeat.Death" {
+   Resource "{0AACF46ABF2F7837}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_idle.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.UniqueSeat.GetInL" {
+   Resource "{E94BFBE847E81F43}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_passengerM_getInL.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.UniqueSeat.GetInR" {
+   Resource "{1840C3BC34B72AAF}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_passengerM_getInR.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.UniqueSeat.GetOutL" {
+   Resource "{4D0D2E1EB75AFA8D}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_passengerM_getOutL.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.UniqueSeat.GetOutR" {
+   Resource "{BC06164AC405CF61}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_passengerM_getOutR.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.UniqueSeat.HeadLook" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.UniqueSeat.Idle" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.UniqueSeat.UnconsciousDeath" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.UniqueSeat.UnconsciousIdle" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.UniqueSeat.UnconsciousIn" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.UniqueSeat.UnconsciousOut" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.AccelerationSpine" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.Death" {
+   Resource "{0AACF46ABF2F7837}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_idle.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.GetIn" {
+   Resource "{2387E674E43C0DDA}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_passengerR_getIn.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.GetOut" {
+   Resource "{08DDCF7D99A9B5B5}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_passengerR_getOut.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.HeadLook" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.Idle" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.UnconsciousDeath" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.UnconsciousIdle" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.UnconsciousIn" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.UnconsciousOut" {
+   Resource "{563DEBD086103847}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_empty.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.Brake" {
+   Resource "{DFA92C0A9A4BE077}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_brake.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.Clutch" {
+   Resource "{726DB79F9B283954}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_driver_clutch.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.SteeringExtreme" {
+   Resource "{98B5E5E95C7D3ECB}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_steering_poses_extreme.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.SteeringMain" {
+   Resource "{F958B6D2261581D0}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_steering_poses_main.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.Throttle" {
+   Resource "{3B1F30F0D7C14F24}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_driver_throttle.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.EngineStartLoop" {
+   Resource "{557ED6778CD49E37}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_driver_turn_on_engine_loop.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.ShiftGear" {
+   Resource "{A4CE8E4D4F0C79E8}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_driver_shift_gear.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.LightsOn" {
+   Resource "{4A4DAD962530959F}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_driver_light_in.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.LightsOff" {
+   Resource "{047FF337EBF13569}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_driver_light_out.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.EngineStartIn" {
+   Resource "{D03B6FA5C42A2E95}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_driver_turn_on_engine_in.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.EngineStop" {
+   Resource "{126F4B689F8E12AE}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_driver_turn_turn_off.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.EngineStartOut" {
+   Resource "{8C2C99895D0169DA}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_driver_turn_on_engine_out_on.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.HornIn" {
+   Resource "{0FDB74F7AD51A760}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_driver_horn_in.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.HornLoop" {
+   Resource "{5854AFB1D2193C32}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_driver_horn_loop.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.HornOut" {
+   Resource "{43601704C707310A}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_driver_horn_out.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.HandBrakeoff" {
+   Resource "{DE1E59B35AF7F79B}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_driver_handbrake_off.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.HandBrakeOn" {
+   Resource "{13FC900E66FFE508}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_driver_handbrake_on.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.HandBrakeIn" {
+   Resource "{AE2CC28919E4F916}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_driver_handbrake_in.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.HandBrakeLoop" {
+   Resource "{7461A2C202EDA62B}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_driver_handbrake_loop.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.HandBrakeOut" {
+   Resource "{CCA69C6487420E8A}Assets/Vehicles/Wheeled/UAZ469/anm/v_UAZ469_driver_handbrake_out.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.01_CloseDoor_In" {
+   Resource "{7AD2FC2387E705F4}Assets/Vehicles/Wheeled/UAZ469/anm/Test/v_UAZ469_passengerR_closeDoor_in.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.01_CloseDoor_Out" {
+   Resource "{3169CF958D43D058}Assets/Vehicles/Wheeled/UAZ469/anm/Test/v_UAZ469_passengerR_closeDoor_out.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.01_OpenDoor_In" {
+   Resource "{19C0CF0EBBEE8AAF}Assets/Vehicles/Wheeled/UAZ469/anm/Test/v_UAZ469_passengerR_openDoor_in.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.01_OpenDoor_Out" {
+   Resource "{F234337FB55DFA1C}Assets/Vehicles/Wheeled/UAZ469/anm/Test/v_UAZ469_passengerR_openDoor_out.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.01_CloseDoor_In" {
+   Resource "{46D53E34FCE49662}Assets/Vehicles/Wheeled/UAZ469/anm/Test/v_UAZ469_passengerL_closeDoor_in.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.01_CloseDoor_Out" {
+   Resource "{47B9FB212D35FD08}Assets/Vehicles/Wheeled/UAZ469/anm/Test/v_UAZ469_passengerL_closeDoor_out.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.01_OpenDoor_In" {
+   Resource "{AE2E57E415ADE571}Assets/Vehicles/Wheeled/UAZ469/anm/Test/v_UAZ469_passengerL_openDoor_in.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.01_OpenDoor_Out" {
+   Resource "{CE33F168CE5E698A}Assets/Vehicles/Wheeled/UAZ469/anm/Test/v_UAZ469_passengerL_openDoor_out.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.01_CloseDoor_In" {
+   Resource "{40C685E04D7FCBEB}Assets/Vehicles/Wheeled/UAZ469/anm/Test/v_UAZ469_driver_closeDoor_in.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.01_CloseDoor_Out" {
+   Resource "{98D08A02EBFEF5F1}Assets/Vehicles/Wheeled/UAZ469/anm/Test/v_UAZ469_driver_closeDoor_out.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.01_OpenDoor_In" {
+   Resource "{4D0FD06BD750DD29}Assets/Vehicles/Wheeled/UAZ469/anm/Test/v_UAZ469_driver_openDoor_in.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.01_OpenDoor_Out" {
+   Resource "{C8204ABC7FC53403}Assets/Vehicles/Wheeled/UAZ469/anm/Test/v_UAZ469_driver_openDoor_out.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.01_CloseDoor_In" {
+   Resource "{34D3E9BEEAFB6DE9}Assets/Vehicles/Wheeled/UAZ469/anm/Test/v_UAZ469_codriver_closeDoor_in.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.01_CloseDoor_Out" {
+   Resource "{B4CD39F53A54B430}Assets/Vehicles/Wheeled/UAZ469/anm/Test/v_UAZ469_codriver_closeDoor_out.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.01_OpenDoor_In" {
+   Resource "{04715628FDA85A41}Assets/Vehicles/Wheeled/UAZ469/anm/Test/v_UAZ469_codriver_openDoor_in.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.01_OpenDoor_Out" {
+   Resource "{BC3526E2D8419201}Assets/Vehicles/Wheeled/UAZ469/anm/Test/v_UAZ469_codriver_openDoor_out.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.01_CloseDoor_Out_Back" {
+   Resource "{B4CD39F53A54B430}Assets/Vehicles/Wheeled/UAZ469/anm/Test/v_UAZ469_codriver_closeDoor_out.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.01_CloseDoor_Out_Back" {
+   Resource "{98D08A02EBFEF5F1}Assets/Vehicles/Wheeled/UAZ469/anm/Test/v_UAZ469_driver_closeDoor_out.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.01_CloseDoor_Out_Back" {
+   Resource "{47B9FB212D35FD08}Assets/Vehicles/Wheeled/UAZ469/anm/Test/v_UAZ469_passengerL_closeDoor_out.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.01_CloseDoor_Out_Back" {
+   Resource "{3169CF958D43D058}Assets/Vehicles/Wheeled/UAZ469/anm/Test/v_UAZ469_passengerR_closeDoor_out.anm"
+  }
+ }
+ RBF AnimSetInstanceSourceRBFArray "{6602E66778C2D659}" {
+ }
+}

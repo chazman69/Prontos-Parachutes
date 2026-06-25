@@ -1,0 +1,5 @@
+MatPBRBasic {
+ Cull none
+ BCRMap "{B79368F2D8632187}Assets/Data/Reserve Bag_BCR.edds"
+ NMOMap "{8F4BD36001147319}Assets/Data/Reserve Bag_NMO.edds"
+}

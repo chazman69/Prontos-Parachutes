@@ -1,0 +1,5 @@
+# Enfusion Workbench local/generated
+.backup/
+*.bak
+Thumbs.db
+desktop.ini

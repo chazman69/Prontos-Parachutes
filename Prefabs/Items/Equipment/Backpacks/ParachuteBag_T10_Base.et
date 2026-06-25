@@ -1,0 +1,31 @@
+GenericEntity : "{23DA0939B0158024}Prefabs/Items/Equipment/Backpacks/Backpack_Kolobok_Parachute.et" {
+ ID "511E9C6ADE70F798"
+ components {
+  ParachuteItemComponent "{6594945265DDB21D}" {
+   m_ParachutePrefab "{11D4D67549A33E29}Prefabs/DeployedParachutes/Core/DeployedParachute_T10_Canopy_Base.et"
+  }
+  SCR_UniversalInventoryStorageComponent "{5222CB03A40528FA}" {
+   Attributes SCR_ItemAttributeCollection "{5222CB039E9715D1}" {
+    ItemDisplayName UIInfo "{5222CB03904B414C}" {
+     Name "T-10 Parachute Bag & Rig"
+     Description "User Instructions: Wait 3–5 seconds after jumping before pulling the chute release. The recommended release height is 400 meters. Do not land on your buttocks; we do not handle service-related injuries."
+    }
+    CustomAttributes {
+     PreviewRenderAttributes "{52BCBDD2B54658EC}" {
+      PreviewWornModel 1
+      LodModel 0
+     }
+    }
+    m_Size SLOT_2x2
+   }
+  }
+  BaseLoadoutClothComponent "{511E9C6ADE70F7BB}" {
+   AreaType Pronto_Parachute "{5A6ABD3858A95CBE}" {
+   }
+   WornModel "{8EB173EC6C62969A}Assets/Parachute_Rig.xob"
+   VisibleInVehicle 1
+   DeflatedModel ""
+  }
+ }
+ coords 2626.942 24.219 5418.303
+}

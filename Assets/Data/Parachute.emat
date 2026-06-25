@@ -1,0 +1,5 @@
+MatPBRBasic {
+ Cull none
+ BCRMap "{C94CECDDC03BDC59}Assets/Data/Parachute_BCR.edds"
+ NMOMap "{F194574F194C8EC7}Assets/Data/Parachute_NMO.edds"
+}

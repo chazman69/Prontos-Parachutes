@@ -1,0 +1,8 @@
+MatPBRBasic {
+ Color 1 0.853 0.462 1
+ RoughnessScale 1.928
+ BCRMap "{6D8FCF72B491F7C5}Assets/_SharedData/Fabric/ST_Rope_BW_BCR.edds"
+ NMOMap "{555774E06DE6A55B}Assets/_SharedData/Fabric/ST_Rope_BW_NMO.edds"
+ GlobalMapsUVTransform MatUVTransform "{6602E6601B234619}" {
+ }
+}

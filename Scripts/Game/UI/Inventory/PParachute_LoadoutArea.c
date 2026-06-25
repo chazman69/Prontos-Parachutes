@@ -1,0 +1,1 @@
+class Pronto_Parachute: LoadoutAreaType{};

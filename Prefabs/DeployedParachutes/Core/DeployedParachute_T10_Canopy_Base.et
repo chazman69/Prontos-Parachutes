@@ -1,0 +1,37 @@
+ParachuteDeployedEntity : "{9ADD554959C09197}Prefabs/DeployedParachutes/Core/DeployedParachuteMK4.et" {
+ ID "4B42E71698F5739C"
+ components {
+  MeshObject "{4B42E716914465B9}" {
+   Object "{1C417E692955EBE0}Assets/Parachute_Canopy.xob"
+  }
+  SCR_BaseCompartmentManagerComponent "{2CD4A765A7D52986}" {
+   CompartmentSlots {
+    CargoCompartmentSlot passenger_l02 {
+     PassengerPositionInfo EntitySlotInfo "{699366C6D607AD06}" {
+      Offset 0 0 0
+     }
+     SeatType 2
+    }
+   }
+  }
+  VehicleAnimationComponent "{50B812962B17E60B}" {
+   AnimGraph "{9E1C0966D5A6F3A1}Assets/Anims/Parachute.agr"
+   AnimInstance "{BC78C2B31E705C25}Assets/Anims/Parachute_Vehicle.asi"
+   AnimInjection AnimationAttachmentInfo "{50B812961A339FD2}" {
+    AnimGraph "{9E1C0966D5A6F3A1}Assets/Anims/Parachute.agr"
+    AnimInstance "{23B7128DDA8C4C02}Assets/Anims/Parachute_Player.asi"
+   }
+  }
+ }
+ coords 2630.177 24.219 5417.356
+ m_PitchTorque 5
+ m_RollTorque 5
+ m_DragStrength 6.758
+ m_MaxFallSpeed 5.209
+ m_MaxForwardSpeed 1.1
+ m_LevelPower 3
+ m_MaxTurnRate 2.934
+ m_TurnPropGain 0.967
+ m_MinBankAngle 2.214
+ m_MinPitchInput 0.053
+}

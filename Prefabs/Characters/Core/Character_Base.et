@@ -1,0 +1,13 @@
+SCR_ChimeraCharacter {
+ ID "520EC961A090B1EE"
+ components {
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Parachute {
+     AreaType Pronto_Parachute "{68996734EBC78DC9}" {
+     }
+    }
+   }
+  }
+ }
+}
