@@ -1,7 +1,7 @@
-GenericEntity : "{23DA0939B0158024}Prefabs/Items/Equipment/Backpacks/Backpack_Kolobok_Parachute.et" {
+GenericEntity : "{41A9C55B61F375F0}Prefabs/Items/Equipment/Backpacks/Backpack_Kolobok.et" {
  ID "511E9C6ADE70F798"
  components {
-  ParachuteItemComponent "{6594945265DDB21D}" {
+  Pronto_ParachuteItemComponent "{6594945265DDB21D}" {
    m_ParachutePrefab "{11D4D67549A33E29}Prefabs/DeployedParachutes/Core/DeployedParachute_T10_Canopy_Base.et"
   }
   SCR_UniversalInventoryStorageComponent "{5222CB03A40528FA}" {

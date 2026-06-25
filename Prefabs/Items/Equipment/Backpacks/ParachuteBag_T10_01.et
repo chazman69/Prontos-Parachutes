@@ -1,7 +1,7 @@
 GenericEntity : "{E0FBDCC3182A886F}Prefabs/Items/Equipment/Backpacks/ParachuteBag_T10_Base.et" {
  ID "511E9C6ADE70F798"
  components {
-  ParachuteItemComponent "{6594945265DDB21D}" {
+  Pronto_ParachuteItemComponent "{6594945265DDB21D}" {
    m_ParachutePrefab "{4021A36E2AB9EE98}Prefabs/DeployedParachutes/Core/DeployedParachute_T10_Canopy_01.et"
   }
  }

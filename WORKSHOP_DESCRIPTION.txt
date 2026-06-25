@@ -1,0 +1,35 @@
+Prontos Parachutes adds a fully deployable T-10 parachute to Arma Reforger.
+
+Pull your chute after jumping, steer the canopy down with pitch / roll / bank-to-turn,
+flare on approach, and watch your landing speed — come in too hard and you'll break
+your legs or worse. Built for multiplayer.
+
+This is a STANDALONE addon: it no longer requires the Parachute Framework Workshop
+item. Everything it needs is bundled, and all classes are namespaced so it can run
+safely alongside the framework and other parachute mods on the same server.
+
+FEATURES
+* Fully steerable canopy: pitch, roll, and bank-to-turn control
+* Auto-level controller keeps the canopy upright (adjustable)
+* Adjustable glide, flare, drag, torque and wind influence
+* Safe-landing check: injures or kills above a configurable vertical speed
+* Parachute fabric can be damaged and collapse, forcing an emergency exit
+* Integrates with default arsenals / loadouts
+* Tunable network sync rate, delta gating and distance culling for performance
+* Fixes a multiplayer landing bug that could send players back to the spawn screen
+
+HOW TO USE
+Set your game mode's player controller to Pronto_PlayerController (or add the
+parachute component to your own controller prefab) and give players the T-10
+parachute bag from the arsenal.
+
+CREDITS
+Adapted, with thanks, from the Arma Reforger Parachute Framework by Alphaegen:
+https://github.com/Alphaegen/ArmaReforgerParachutes
+Modifications: classes namespaced to Pronto_*, prefabs vendored so the framework
+dependency could be dropped, and a multiplayer landing fix.
+
+LICENCE
+Arma Public License – Share Alike (APL-SA).
+https://www.bohemia.net/community/licenses/arma-public-license-share-alike
+Non-commercial, Arma only, share-alike. Original and modified work remain under APL-SA.
