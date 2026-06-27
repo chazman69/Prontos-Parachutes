@@ -3,7 +3,7 @@ GameProject {
  GUID "68996556700D5CA1"
  TITLE "Prontos Parachutes"
  Dependencies {
-  "65930CB4CD0237B2" "58D0FB3206B6F859"
+  "58D0FB3206B6F859"
  }
  Configurations {
   GameProjectConfig PC {
