@@ -1,0 +1,30 @@
+Prontos Parachutes
+
+Adds a functional T-10 static-line parachute for realistic airborne jumps and MilSim missions.
+
+Developed for the Bushwar Community and general military simulation use, this mod adds
+T-10 static-line parachutes to the United States arsenal box. Gear up, jump, ride the
+canopy down, and mind your landing - come in too hard and you'll pay for it.
+
+Built on the Parachute Framework by Alphaegen, with a multiplayer landing fix on top:
+players no longer get sent back to the spawn screen when they touch down.
+
+REQUIRED DEPENDENCY
+- Parachute Framework (by Alphaegen)
+
+FEATURES
+- T-10 static-line parachute in the US arsenal box
+- Steerable canopy with landing flare and safe-landing checks (from the framework)
+- Fixes the multiplayer bug that could delete a player on landing and return them
+  to the spawn screen
+
+CREDITS
+Built on the Arma Reforger Parachute Framework by Alphaegen - thank you.
+https://github.com/Alphaegen/ArmaReforgerParachutes
+This mod keeps the framework as a dependency and only patches the landing behaviour
+through script overrides.
+
+LICENCE
+Arma Public License - Share Alike (APL-SA).
+https://www.bohemia.net/community/licenses/arma-public-license-share-alike
+Non-commercial, Arma only; the override code remains under APL-SA with attribution.
